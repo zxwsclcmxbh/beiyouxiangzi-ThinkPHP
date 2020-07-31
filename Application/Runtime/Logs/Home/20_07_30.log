@@ -1,0 +1,225 @@
+[ 2020-07-30T09:51:23+08:00 ] ::1 /beiyouxiangzi/index.php/Home/User/weixinlogin?code=081mT6qM0yOtr92gyPsM0Gj5qM0mT6q3&encryptedData=wpSduMO5i3xeEAoWYCq4lHxwzIJsLY7Xf8gG8VqeMfq1vzycLxkjhdCQrscI4zn0xooPTjS2qIzyDNUMRklm3hJsCBpgY7H31t9CVhjsly4KHCaK8O7YdQhGFK5fyQG4%252Fc6R1LBuM2Ot4KH9oHsJjqrgKJqvSRazYxTq5yJip%252BcHDqSiVGhIxDHscyLR%252FWnhER%252FiMzMyF3wZkeHG4WX8uhb9oXSZBftDz5HuFY8s6VRTtAuj%252BkH5m%252F%252BRuDuoF40NqymSD1GuGbqLMQ0KrER%252BkTKmliaRvYlaUjzuKJBBUbIXQp4UQ3xo22ZD6g3qkdLBWVmuE1QxGMaPFATWTltIXRkD5I0xjTOC3TPwjTpWb1gK%252FJUPMNg4BkxAfjUjv7sQLN4urxSrbuHVm%252Bg0HC1QX%252BhGcpr82%252BKfPjqtvohC19ZIVe036JAyqjADEKBBs5Iu1Yuax%252BMpWR50g2IS%252Fy89VtLSw4jYRYHNvm3uNH1Py2k%253D&iv=BWhG1oG9bQmc0i4tY8kLBg%3D%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000936s ]
+
+[ 2020-07-30T10:01:27+08:00 ] ::1 /beiyouxiangzi/index.php/Home/User/car_login?code=021Uzn5P0mj4y72LeN2P0rtm5P0Uzn5J&rawData=%7B%22nickName%22%3A%22%E5%BF%AB%E5%BF%AB%E5%A5%BD%22%2C%22gender%22%3A1%2C%22language%22%3A%22zh_CN%22%2C%22city%22%3A%22Changping%22%2C%22province%22%3A%22Beijing%22%2C%22country%22%3A%22China%22%2C%22avatarUrl%22%3A%22https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2FQ0j4TwGTfTLtgrmTmy8HdzCsO5MibvZnjxfCiblRFqVTwFka2Ds7Y2ydhZf46fgdDiaPadWJGnK1RPIhPJWCxw2AA%2F132%22%7D&signature=6d93d6611b4d817c8663dc49f8d9eac464275175&iv=%2FCWLDtGMUfcPQcn%2FQDQQmQ%3D%3D&encryptedData=fxC9T5y%2BE1KpI0Nqu7Wf7MVGe0AHF8XpTksKY2Qtw4jvyksjlOmjr6ndqi6fdpOSd7N9kC6W0Z1M47DKCjMpXRNxtstEJ9ZttNigpZ7KNOYEk02MdkiB3mJdCXxnRAJRkwRrlprDJfPPRTcNEVGPcNE6gVSrXo6AiW124nE9NFZA8PbGyVlXv4xbKRoteorGTql2YA5FUptGUTlJ6xLmn4WoinW2GI1K5IsyuKh2x%2BpxH4knrkeF38LHG8qRTbzRWZw2kXkOFzSFn%2BPow2tH0qUNiV30ESb2VUZlY8PUUj19TWmonq3MSNwPoexb1regNUB10fL6BrF6Gk9s34h1VG6zU7K1MqHFHVz87M%2F0SiLSO44KSosvN8w4l3qPijjY1tWWZvay1t4G1b9SvuQIWkaSxpFI%2FOD3%2BZYNLNRaxuxBe4%2FcN61FRhLO1fJPx%2FaYqGgY%2FhBhvca%2FeExieOMt7q5DH0aXVvc%2FsOauVPgau9Y%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000868s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000946s ]
+
+[ 2020-07-30T10:02:10+08:00 ] ::1 /beiyouxiangzi/index.php/Home/User/car_login?code=0810MYjn0k7XTn1C0qln0riYjn00MYj0&rawData=%7B%22nickName%22%3A%22%E5%BF%AB%E5%BF%AB%E5%A5%BD%22%2C%22gender%22%3A1%2C%22language%22%3A%22zh_CN%22%2C%22city%22%3A%22Changping%22%2C%22province%22%3A%22Beijing%22%2C%22country%22%3A%22China%22%2C%22avatarUrl%22%3A%22https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2FQ0j4TwGTfTLtgrmTmy8HdzCsO5MibvZnjxfCiblRFqVTwFka2Ds7Y2ydhZf46fgdDiaPadWJGnK1RPIhPJWCxw2AA%2F132%22%7D&signature=6d93d6611b4d817c8663dc49f8d9eac464275175&iv=A68ZGNUG4DGdbrlj3ogRaA%3D%3D&encryptedData=t5oDSwnRUx4C8C%2BZzWliWCuf1S9ZWw9%2FYC0JinGqMa5LcCHnBMiECxJWpmSEW6NFqjqwfKt1jd4%2FWZKfycAkMuj4QRx96RwYP02rai%2FkqHFYVOr4O5yVPzB4wgWEFF9h8UvmwKQ3Gb5PiU0AqNZbXoYPTtX1T480ADHgIALAicCTNsQxO7w%2Bd%2FYiTZbekhGsmC8EAks6vhIMPH%2BEETwcSRVy%2BFXNwjDuuisIzWenbT1w34ntej7PJeMcXGWOGbTmJAFwG%2Bm4M0mWxRMw1Boy0jpRtUH4%2FElSpDYXGJ0ivGbE4fCTJhR4PYppyBE2oJhQmh92IvHLPivXKJnhx6A7naX3wFmbMIEKAL%2FSyNXmW3tYfWYn00rXit50kgFU7MIKKwNnb0p6hYu33yCwabBZNX0R7O%2FvDtnvzx57jxHa7Ha2Nr8tZKaXZDqJFE9d59tZjBL5mU96TPjH8tF0tHXM48Q7Pp5ZrT%2FeexXQ6tEYTeM%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+
+[ 2020-07-30T10:02:39+08:00 ] ::1 /beiyouxiangzi/index.php/Home/User/car_login?code=081GMuex0oesod1714hx0URtex0GMuev&rawData=%7B%22nickName%22%3A%22%E5%BF%AB%E5%BF%AB%E5%A5%BD%22%2C%22gender%22%3A1%2C%22language%22%3A%22zh_CN%22%2C%22city%22%3A%22Changping%22%2C%22province%22%3A%22Beijing%22%2C%22country%22%3A%22China%22%2C%22avatarUrl%22%3A%22https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2FQ0j4TwGTfTLtgrmTmy8HdzCsO5MibvZnjxfCiblRFqVTwFka2Ds7Y2ydhZf46fgdDiaPadWJGnK1RPIhPJWCxw2AA%2F132%22%7D&signature=6d93d6611b4d817c8663dc49f8d9eac464275175&iv=fayqOavMcYd8N77K7lK8YQ%3D%3D&encryptedData=CB4kc%2BBCGUclhEEpkXMSfa99fnOUrUeq3kxv9wbw6usod20ilq5oFW7wR3ZAeTN0aH0FBlrlXa8vXraK8JSDH6iIfpJG4vFZKuT9E8QtV2DdwGwgUTyXSlFgSLDl7YqZ%2BvV8ArknAkwXAGHGBxC%2BO4%2BufftLApeOVHz%2FSprzTWZxMMb9mDyhmG4ZIqo6zlZ7jcKn%2F4%2Br5eU%2BD7V1OzMz8jfF2IrOoAycvcsFHHW%2Fvt5SBOXfeY6oRU5%2FF7SFX4PK8l%2BEZyXggx0KgBsgwrgFoqpUEOS6SGuv5UJDGVNbGrTQ3jflk4hohXLN0Gp4YqDGY5N30n%2FEtEd2HZe%2FfubaMIsqkpupRDP7IR%2BK2%2FDJ1UaOTD38onRijqoix9ZECJGWA16j7D%2F2Yd%2BnebzHtI6YWvFuiI5gOteQTrePZBxK2Epp%2BvW7RbYL3A3PTScLfnr8k5P0XjKgoD03diY4lES2aGmWDk8LN2XrnbRatZE7J4M%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000620s ]
+
+[ 2020-07-30T10:03:23+08:00 ] ::1 /beiyouxiangzi/index.php/Home/User/car_login?code=071APoiF0v52dg2XmFhF0PPpiF0APoiR&rawData=%7B%22nickName%22%3A%22%E5%BF%AB%E5%BF%AB%E5%A5%BD%22%2C%22gender%22%3A1%2C%22language%22%3A%22zh_CN%22%2C%22city%22%3A%22Changping%22%2C%22province%22%3A%22Beijing%22%2C%22country%22%3A%22China%22%2C%22avatarUrl%22%3A%22https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2FQ0j4TwGTfTLtgrmTmy8HdzCsO5MibvZnjxfCiblRFqVTwFka2Ds7Y2ydhZf46fgdDiaPadWJGnK1RPIhPJWCxw2AA%2F132%22%7D&signature=6d93d6611b4d817c8663dc49f8d9eac464275175&iv=W5sTS7wjbd5FIPjrkU7q7A%3D%3D&encryptedData=TEqXnzFABT4guqosIzCbJUYnIak2bRxwRUQQOnygE0AahdXjNsYNJS2QsgNnKmC36D0rD%2BqiUX4y39BHFZUIEnmGiEztEbROV3SHyXEeu2BY%2BS4QYdXNdo2%2FJq%2F%2F8UBSDEIy6bNlIZP4dA9HEPoSvtkXRThPur1fYYWb6TobQjTkN5AumlLgNJ5sSkMmgtf1mvNDn9V8Fi%2FYINHwlXScUYMlGcV%2FTyba37ta5%2FZUPNLWWzUhIA0QdhmF2pEaaWX6%2B8Rcnodxc%2FyoCAD2d8ryLHLIKASnKQ53jbWm5Yoo6aQxubk8P4qecrF33unUc3M9BMTBrIt4cTJmrAXJHZ7OV7McmdoSDrJzlNBJVqWXIxtCX0KzpnPLYMqtUoy%2BJ8oR3vd6Ysx7NYxFAOpm6FC7FUS2WFOH0ww2uGfxSzpkLF97qf%2Fp11NUKIVOfJ1F1qZSkp%2BiipwXdR46a0h%2ByIHA7GtMCYmIncr0xiKylDU36I0%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+ERR: 非法操作:car_login
+
+[ 2020-07-30T10:05:05+08:00 ] ::1 /beiyouxiangzi/index.php/Home/User/car_login?code=081zJ5sF14o0P40nYTqF1cc4sF1zJ5sH&rawData=%7B%22nickName%22%3A%22%E5%BF%AB%E5%BF%AB%E5%A5%BD%22%2C%22gender%22%3A1%2C%22language%22%3A%22zh_CN%22%2C%22city%22%3A%22Changping%22%2C%22province%22%3A%22Beijing%22%2C%22country%22%3A%22China%22%2C%22avatarUrl%22%3A%22https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2FQ0j4TwGTfTLtgrmTmy8HdzCsO5MibvZnjxfCiblRFqVTwFka2Ds7Y2ydhZf46fgdDiaPadWJGnK1RPIhPJWCxw2AA%2F132%22%7D&signature=4d7d96ad552d511abe3cb91e882cd8980175db70&iv=ING0rVP1qfc5UozvQMi9%2Bw%3D%3D&encryptedData=kyu9mkKsNvraygRGLp45M7LmENvqkFjcsJls3PRddBP8L3Po5%2F6pAWakrQlwkhn3mUjkh68p8r2e%2BXsdgG68BrBoxhyWAw%2BQ0GMnHcrIY0iUe1neTWE29vCbwrT4QSTzyXf7JFoF6EiIArUf5%2BDsXA2PtsWKcKmYRFonGAKg%2BIFlsr7rgEwvTc27XvFfnEpWA3lIGpTTw2KtO8cu%2B9rp4rCulsvNRXbUQll4CQJrEULbTnzp70dhG%2FZ8AyNlXd1RkZIJ8KpF9dkipvAaDVVruz9AJLWJosE4ZuWAXeSCHtUclR%2FBgbUAXmPUjeuaEjNSGnU8BRv9b%2F%2FG3HBzRiarlBOwuUspx48SJgFKk5QOCcxBx7zZLkPojw3dijIUQAYtKcjNi9lnz1ObqvPmhxf3Eq06VAVSvfpNwrkLZsawEoHK7cqPguG%2F1GW2zsT3nwOSPBmy0EmVNUOsYgWs0YX51Ls0jzmzqI51JiR1MF%2FLdg8%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+
+[ 2020-07-30T10:05:15+08:00 ] ::1 /beiyouxiangzi/index.php/Home/User/car_login?code=071SoZTd0HZGmw1PnsSd0WXXTd0SoZTq&rawData=%7B%22nickName%22%3A%22%E5%BF%AB%E5%BF%AB%E5%A5%BD%22%2C%22gender%22%3A1%2C%22language%22%3A%22zh_CN%22%2C%22city%22%3A%22Changping%22%2C%22province%22%3A%22Beijing%22%2C%22country%22%3A%22China%22%2C%22avatarUrl%22%3A%22https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2FQ0j4TwGTfTLtgrmTmy8HdzCsO5MibvZnjxfCiblRFqVTwFka2Ds7Y2ydhZf46fgdDiaPadWJGnK1RPIhPJWCxw2AA%2F132%22%7D&signature=4d7d96ad552d511abe3cb91e882cd8980175db70&iv=WYQg3KcW5A%2BXPRRlX0z1bg%3D%3D&encryptedData=x%2BZyweoRrJ%2FujzugXrk4U8hUj8wC29nY%2BL9iWHJVrQqJAFjd0JEokUzgmbgodEz%2FzPWjjoKiKgu5Fjbmq2zLCvcmEYXVW5eiOGKPsRb5mJEMdDuGPLKkVvIl%2Bz%2BzwTjJWbfriIlKrZlGJr3Y%2FEGA8rAWbJ586Q4ubx5f5n75XcHV3xwoQ2MCRxtQZACbO2ZxkpjQKaxs50npqUGogeIP62A0YoMXYzcupeoOLDKYsEF3Ji1lITSkXoL8K6GVLtnrTZqDyPsuJz6fg2f2n09L5sj6mHF5bdb4nUClSyWSnNuacmUMCuRk21FVuouxZ%2FhXTP%2BXa04WfdXz5E%2FvcQzLah%2BH8ChcUb81RBtBIik%2Fkmr%2FT9SVUrgcZWn%2B5Wq85IgHVebuGshY2Rt08cFCVXluHULDN0f1S8kM23BRErGCJewZZA02YtnWUgcr%2FzXqQlQ8RPTUXcdRoZsRnFNErHo%2Bo4kfBd0d1MAVXS78upXjRHk%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000837s ]
+
+[ 2020-07-30T10:59:40+08:00 ] ::1 /beiyouxiangzi/index.php/Home/User/car_login?code=081omvjh1seHCu08NTjh1lUtjh1omvje&rawData=%7B%22nickName%22%3A%22%E5%BF%AB%E5%BF%AB%E5%A5%BD%22%2C%22gender%22%3A1%2C%22language%22%3A%22zh_CN%22%2C%22city%22%3A%22Changping%22%2C%22province%22%3A%22Beijing%22%2C%22country%22%3A%22China%22%2C%22avatarUrl%22%3A%22https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2FQ0j4TwGTfTLtgrmTmy8HdzCsO5MibvZnjxfCiblRFqVTwFka2Ds7Y2ydhZf46fgdDiaPadWJGnK1RPIhPJWCxw2AA%2F132%22%7D&signature=049bd7ad4009cfc2baa65a018e69cf9d134a6f93&iv=g2mP%2F0bMaN%2FmCoVJmcvMlA%3D%3D&encryptedData=NtixkhR2iby04qbaXqzpouRVfq3ymj%2FhXm9oBGbTA29kq7FqEONbFKNzqt9Qye8%2BkgefxXStJ5x9%2BVMseEPzGB4u0RqxetzYFOqx0yPz9eUn99hV2rMRZB%2BILRQptOijHjLlKgIgEjROr1ejmq1cto8Cl8QEgVoi9LFEUT1xm7mzzMiWlHXuayOPVsvXV3sY53X%2BBklJJ0mNhaLxUSI53b3q3%2FKdJrYtlEZclmTbVh1WGYbLRZY3IKojXnRsCTNaIMJTLIja0Mvm8lc9xCcmkkZbDsMdHxdkmQazZ4x8pEoyqruaoKqQEDjSn0qgdNSTHUk9uJX3pWdXmU6HHhZtI9sJ4gT9dT7gOaowbVivUU2CXtfMfO1GBgRPxt4SWEKA7B208YFjJ4KaVHvP9FxGne%2BFvOFYkCLn4Vm5zOsYGPsAUisS77nIOCQ%2Bzn2iorMCgYVd9byUYYTut4KkTBh1xdxn9%2FzjdRSv036%2F91LhtsI%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000615s ]
+ERR: 非法操作:car_login
+
+[ 2020-07-30T17:59:58+08:00 ] ::1 /beiyouxiangzi/index.php/Home/User/sign?x=&y=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+NOTIC: [8] Undefined index: username C:\PHPTutorial\PHPTutorial\WWW\beiyouxiangzi\Application\Home\Controller\UserController.class.php 第 12 行.
+
+[ 2020-07-30T18:01:00+08:00 ] ::1 /beiyouxiangzi/index.php/Home/User/sign?x=&y=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000468s ]
+NOTIC: [8] Undefined index: StudentID C:\PHPTutorial\PHPTutorial\WWW\beiyouxiangzi\Application\Home\Controller\UserController.class.php 第 13 行.
+
+[ 2020-07-30T22:07:02+08:00 ] ::1 /beiyouxiangzi/index.php/Home/User/sign?StudentID=2018210585&username=%E5%BF%AB%E5%BF%AB%E5%A5%BD&face_url=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2FQ0j4TwGTfTLdZvpsy9lXet8Z55Uiag9KlM0Z6XSSAdJBArP4wW7UhHjJt4Bj5X3mLsywF8SBqjWKQu0J7SUTNibA%2F132&password=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001540s ]
+NOTIC: [8] Undefined index: StudentID C:\PHPTutorial\PHPTutorial\WWW\beiyouxiangzi\Application\Home\Controller\UserController.class.php 第 13 行.
+
+[ 2020-07-30T22:08:24+08:00 ] ::1 /beiyouxiangzi/index.php/Home/User/sign?StudentID=2018210585&username=%E5%BF%AB%E5%BF%AB%E5%A5%BD&face_url=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2FQ0j4TwGTfTLdZvpsy9lXet8Z55Uiag9KlM0Z6XSSAdJBArP4wW7UhHjJt4Bj5X3mLsywF8SBqjWKQu0J7SUTNibA%2F132&password=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000870s ]
+NOTIC: [8] Undefined index: StudentID C:\PHPTutorial\PHPTutorial\WWW\beiyouxiangzi\Application\Home\Controller\UserController.class.php 第 13 行.
+
+[ 2020-07-30T22:10:03+08:00 ] ::1 /beiyouxiangzi/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000932s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `user` WHERE `StudentID` = '2018210579' LIMIT 1   [ RunTime:0.0014s ]
+
+[ 2020-07-30T22:11:43+08:00 ] ::1 /beiyouxiangzi/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001016s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `user` WHERE `StudentID` = '2018210579' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2020-07-30T22:14:53+08:00 ] ::1 /beiyouxiangzi/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001629s ]
+NOTIC: [8] Undefined index: password_again C:\PHPTutorial\PHPTutorial\WWW\beiyouxiangzi\Application\Home\Controller\UserController.class.php 第 25 行.
+
+[ 2020-07-30T22:16:34+08:00 ] ::1 /beiyouxiangzi/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002484s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `user` WHERE `StudentID` = '2018210585' LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2020-07-30T22:17:32+08:00 ] ::1 /beiyouxiangzi/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001279s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0213s ]
+SQL: SELECT * FROM `user` WHERE `StudentID` = '2018210585' LIMIT 1   [ RunTime:0.0012s ]
+
+[ 2020-07-30T22:25:51+08:00 ] ::1 /beiyouxiangzi/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000936s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002490s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0170s ]
+SQL: SELECT * FROM `user` WHERE `StudentID` = '1111111111' LIMIT 1   [ RunTime:0.0007s ]
+SQL: INSERT INTO `user` (`username`,`StudentID`,`password`,`face_url`) VALUES ('快快好','1111111111','e11170b8cbd2d74102651cb967fa28e5','https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTLdZvpsy9lXet8Z55Uiag9KlM0Z6XSSAdJBArP4wW7UhHjJt4Bj5X3mLsywF8SBqjWKQu0J7SUTNibA/132') [ RunTime:0.0068s ]
+
+[ 2020-07-30T22:26:15+08:00 ] ::1 /beiyouxiangzi/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001269s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `user` WHERE `StudentID` = '1111111111' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2020-07-30T22:59:33+08:00 ] ::1 /beiyouxiangzi/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001882s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0174s ]
+SQL: SELECT * FROM `user` WHERE `StudentID` = '2222222222' LIMIT 1   [ RunTime:0.0007s ]
+SQL: INSERT INTO `user` (`username`,`StudentID`,`password`,`face_url`) VALUES ('快快好','2222222222','3a08fe7b8c4da6ed09f21c3ef97efce2','https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTLdZvpsy9lXet8Z55Uiag9KlM0Z6XSSAdJBArP4wW7UhHjJt4Bj5X3mLsywF8SBqjWKQu0J7SUTNibA/132') [ RunTime:0.0010s ]
+
+[ 2020-07-30T23:29:58+08:00 ] ::1 /beiyouxiangzi/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002474s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0127s ]
+SQL: SELECT * FROM `user` WHERE `StudentID` = '4444444444' LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2020-07-30T23:32:24+08:00 ] ::1 /beiyouxiangzi/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001361s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0167s ]
+SQL: SELECT * FROM `user` WHERE `StudentID` = '1111111111' LIMIT 1   [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: StudentID C:\PHPTutorial\PHPTutorial\WWW\beiyouxiangzi\Application\Home\Controller\UserController.class.php 第 119 行.
+
+[ 2020-07-30T23:32:41+08:00 ] ::1 /beiyouxiangzi/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001837s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0118s ]
+SQL: SELECT * FROM `user` WHERE `StudentID` = '4444444444' LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2020-07-30T23:34:24+08:00 ] ::1 /beiyouxiangzi/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001771s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `user` WHERE `StudentID` = '1111111111' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: StudentID C:\PHPTutorial\PHPTutorial\WWW\beiyouxiangzi\Application\Home\Controller\UserController.class.php 第 119 行.
+
