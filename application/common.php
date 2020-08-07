@@ -10,3 +10,14 @@
 // +----------------------------------------------------------------------
 
 // 应用公共文件
+
+function json($error_code, $msg="", $data=array())
+{
+    $result = array(
+        'error_code'=>$error_code,
+        'msg'=>$msg,
+        'data'=>$data
+    );
+    echo json_encode($result, JSON_UNESCAPED_UNICODE);
+    exit;
+}
